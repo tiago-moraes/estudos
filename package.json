@@ -1,0 +1,27 @@
+{
+  "name": "primeiro-projeto",
+  "version": "0.0.1",
+  "description": "Repositório exclusivo para o primeiro projeto de estudo de desenvolvimento Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiago-moraes/primeiro-projeto.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Tiago Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiago-moraes/primeiro-projeto/issues"
+  },
+  "homepage": "https://github.com/tiago-moraes/primeiro-projeto#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
